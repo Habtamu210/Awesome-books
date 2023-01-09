@@ -34,15 +34,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@belmeetmule](https://github.com/Habtamu210)
-- Twitter: [@belmeetmule](https://twitter.com/beleyaha)
-- LinkedIn: [belmeetmule](https://linkedin.com/in/habtamu-birru-4187ab20/)
+- GitHub: [@Habtamu210](https://github.com/Habtamu210)
+- Twitter: [@beleyaha](https://twitter.com/beleyaha)
+- LinkedIn: [Habtamu Birru](https://linkedin.com/in/habtamu-birru-4187ab20/)
 
 👤 **Author2**
 
-- GitHub: [@OmarMWarraich](https://github.com/)
-- Twitter: [@omarwarraich1](https://twitter.com/)
-- LinkedIn: [Omar Mohammad](https://www.linkedin.com/in/)
+- GitHub: [@](https://github.com/)
+- Twitter: [@](https://twitter.com/)
+- LinkedIn: [](https://www.linkedin.com/in/)
 
 ## 🤝 Contributing
 
