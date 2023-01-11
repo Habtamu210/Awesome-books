@@ -39,7 +39,7 @@ const UI = {
     row.innerHTML = `
     <td>${book.title}</td>
     <td>${book.author}</td>
-    <td><a href="#" class="btn btn-sm btn-danger delete">remove</a></td>
+    <td><a href="#" class="btn btn-sm btn-danger delete">Remove</a></td>
     `;
     list.appendChild(row);
   },
