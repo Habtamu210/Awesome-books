@@ -71,7 +71,7 @@ Form.addEventListener('submit', (e) => {
 
   UI.addBookToList(book);
 
-  Store.Add(book);
+  Store.add(book);
 
   UI.clearField();
 });
