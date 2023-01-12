@@ -47,7 +47,6 @@ class Book {
     const books = Book.getBooks();
     books.push(book);
     localStorage.setItem('books', JSON.stringify(books));
-
   }
 
   static removeBook(author) {
