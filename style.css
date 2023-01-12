@@ -7,12 +7,12 @@
 body {
   padding: 100px 30%;
   text-align: center;
-  background-image: linear-gradient(rgba(117, 121, 139, 0.712), rgba(30, 153, 202, 0.712));
+  background-image: linear-gradient(rgba(241, 242, 247, 0.959), rgba(249, 251, 252, 0.747));
 }
 
 h1 {
   text-shadow: 2px 3px grey;
-  font-size: 70px;
+  font-size: 40px;
 }
 
 form {
