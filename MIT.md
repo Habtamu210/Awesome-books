@@ -1,4 +1,4 @@
-## Copyright 2023, Uchenna Ibute
+## Copyright 2023, Uchenna Ibute & Habtamu birru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this Book-List and associated documentation files, to deal in the Book-List without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Book-List, and to permit persons to whom the Book-List is furnished to do so, subject to the following conditions:
 
