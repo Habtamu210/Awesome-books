@@ -5,12 +5,28 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awesome books</b></h3>
+  <!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Clone](#clone)
+  - [Run](#run)
+- [👥 Authors](#authors)
+- [🙏 Acknowledgements](#acknowledgements)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [📝 License](#license)
+
 
 </div>
 # Project Name
 
-> awesome-books
+  <h3><b>Awesome books</b></h3>
 
 ## Built With
 
