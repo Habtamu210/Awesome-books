@@ -1,0 +1,44 @@
+* {
+  margin: 20px;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  padding: 100px 30%;
+  text-align: center;
+  background-image: linear-gradient(rgba(241, 242, 247, 0.959), rgba(249, 251, 252, 0.747));
+}
+
+h1 {
+  text-shadow: 2px 3px grey;
+  font-size: 40px;
+}
+
+form {
+  padding-top: 50px;
+  border: 1px solid gray;
+}
+
+.tables {
+  margin: 10px auto;
+  font-size: 25px;
+}
+
+th {
+  padding: 20px;
+}
+
+.button-submit {
+  width: 20%;
+  background-image: linear-gradient(rgba(117, 121, 139, 0.712), rgba(30, 153, 202, 0.712));
+  border: 1px solid gray;
+  padding: 8px 10px;
+}
+
+.title-input,
+.author-input {
+  width: 70%;
+  padding: 8px 10px;
+  border: 1px solid gray;
+}

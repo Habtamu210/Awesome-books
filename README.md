@@ -1,13 +1,38 @@
+<a name="readme-top"></a>
 
+<div align="center">
+
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Clone](#clone)
+  - [Run](#run)
+- [👥 Authors](#authors)
+- [🙏 Acknowledgements](#acknowledgements)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [📝 License](#license)
+
+
+</div>
 # Project Name
 
-> awesome-books
+  <h3><b>Awesome books</b></h3>
 
 ## Built With
 
 - html, js & css
 
-## Live Demo 
+## Live Demo
 
 [Live Demo Link]()
 
@@ -22,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- Clone the repository from [GitHub](https://github.com/belmeetmule/awesome-books).
+- Clone the repository from [GitHub](https://github.com/Habtamu210/awesome-books).
 - Change to the directory of the repository.
 
 ### Install
@@ -32,34 +57,41 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **habtamu birru**
 
 - GitHub: [@Habtamu210](https://github.com/Habtamu210)
 - Twitter: [@beleyaha](https://twitter.com/beleyaha)
 - LinkedIn: [Habtamu Birru](https://linkedin.com/in/habtamu-birru-4187ab20/)
 
-👤 **Author2**
+👤 **Ibute Uchenna**
 
-- GitHub: [@](https://github.com/)
-- Twitter: [@](https://twitter.com/)
-- LinkedIn: [](https://www.linkedin.com/in/)
-
+- GitHub: [@Uchennaibute](https://github.com/Uchennaibute@github)
+- Twitter: [@Uc_Ibute](https://twitter.com/Uchennaibute@twitter)
+- LinkedIn: [Uchenna Ibute](https://linkedin.com/in/Uchennaibute@linkedin)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Habtamu210/Awesome-books/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+If you like this project give me star!
 
-- 
-- 
-- 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
