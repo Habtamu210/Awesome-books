@@ -7,7 +7,7 @@
 
 - html, js & css
 
-## Live Demo 
+## Live Demo
 
 [Live Demo Link]()
 
@@ -40,10 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author2**
 
-- GitHub: [@](https://github.com/)
-- Twitter: [@](https://twitter.com/)
-- LinkedIn: [](https://www.linkedin.com/in/)
-
+- GitHub: [@githubhandle](https://github.com/Uchennaibute@github)
+- Twitter: [@twitterhandle](https://twitter.com/Uchennaibute@twitter)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Uchennaibute@linkedin)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -56,9 +55,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- 
-- 
-- 
+-
+-
+-
 
 ## 📝 License
 
