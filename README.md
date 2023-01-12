@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- Clone the repository from [GitHub](https://github.com/belmeetmule/awesome-books).
+- Clone the repository from [GitHub](https://github.com/Habtamu210/awesome-books).
 - Change to the directory of the repository.
 
 ### Install
