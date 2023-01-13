@@ -66,24 +66,32 @@ To get a local copy up and running follow these simple example steps.
 👤 **Ibute Uchenna**
 
 - GitHub: [@Uchennaibute](https://github.com/Uchennaibute@github)
-- Twitter: [@Uc_Ibute](https://twitter.com/Uc_Ibute@twitter)
-- LinkedIn: [@UchennaIbute](https://linkedin.com/in/Uchennaibute@linkedin)
+- Twitter: [@Uc_Ibute](https://twitter.com/Uchennaibute@twitter)
+- LinkedIn: [Uchenna Ibute](https://linkedin.com/in/Uchennaibute@linkedin)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Habtamu210/Awesome-books/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+If you like this project give me star!
 
--
--
--
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This project is [MIT](./MIT.md) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
