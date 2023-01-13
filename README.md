@@ -57,22 +57,22 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **habtamu birru**
 
 - GitHub: [@Habtamu210](https://github.com/Habtamu210)
 - Twitter: [@beleyaha](https://twitter.com/beleyaha)
 - LinkedIn: [Habtamu Birru](https://linkedin.com/in/habtamu-birru-4187ab20/)
 
-👤 **Author2**
+👤 **Ibute Uchenna**
 
-- GitHub: [@githubhandle](https://github.com/Uchennaibute@github)
-- Twitter: [@twitterhandle](https://twitter.com/Uchennaibute@twitter)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Uchennaibute@linkedin)
+- GitHub: [@Uchennaibute](https://github.com/Uchennaibute@github)
+- Twitter: [@Uc_Ibute](https://twitter.com/Uc_Ibute@twitter)
+- LinkedIn: [@UchennaIbute](https://linkedin.com/in/Uchennaibute@linkedin)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Habtamu210/Awesome-books/issues).
 
 ## Show your support
 

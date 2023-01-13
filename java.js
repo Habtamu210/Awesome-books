@@ -31,6 +31,7 @@ const UI = {
     const books = Store.getBooks();
     books.forEach((book) => UI.addBookToList(book));
   },
+
   addBookToList(book) {
     const list = document.querySelector('#bookli');
 
