@@ -72,7 +72,7 @@ Form.addEventListener('submit', (e) => {
 
   UI.addBookToList(book);
 
-  Store.add(book);
+  Store.addBook(book);
 
   UI.clearField();
 });
