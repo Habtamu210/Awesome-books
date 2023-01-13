@@ -1,3 +1,9 @@
+const bookList= document.querySelector('#list');
+const addBook = document.querySelector('#addme');
+const contact = document.querySelector('#contactok');
+const addSection = document.querySelector('.added');
+const contactSection = document.querySelector('.contacts');
+const listSection = document.querySelector('.all-list');
 class Book {
   constructor(title, author) {
     this.title = title;
@@ -78,4 +84,42 @@ Form.addEventListener('submit', (e) => {
 document.querySelector('#bookli').addEventListener('click', (e) => {
   Book.removeBook(e.target.parentElement.previousElementSibling.innerHTML);
   Book.deleteBook(e.target);
+});
+
+function displayDate() {
+  document.getElementById('dates').innerHTML = Date();
+}
+
+const onload = () => {
+  contactSection.style.display = 'none';
+  addSection.style.display = 'none';
+  listSection.style.display = 'block';
+  bookList.classList.add('active');
+  contact.classList.remove('active');
+  addBook.classList.remove('active');
+
+};
+
+window.addEventListener('load', onload);
+window.addEventListener('load', displayDate);
+window.addEventListener('click', onload);
+
+addBook.addEventListener('click', () => {
+  bookList.classList.remove('active');
+  contact.classList.remove('active');
+  contactSection.style.display = 'none';
+  addSection.style.display = 'flex';
+  addBook.classList.add('active');
+  listSection.style.display = 'none';
+
+});
+
+contact.addEventListener('click', () => {
+  addBook.classList.remove('active');
+  bookList.classList.remove('active');
+  contactSection.style.display = 'flex';
+  addSection.style.display = 'none';
+  listSection.style.display = 'none';
+  contact.classList.add('active');
+ 
 });
