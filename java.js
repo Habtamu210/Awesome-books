@@ -1,5 +1,5 @@
 class Book {
-  constructor(title,author) {
+  constructor(title, author) {
     this.title = title;
     this.author = author;
   }
@@ -10,7 +10,7 @@ class Book {
   }
 
   static addBookToList(book) {
-    const list = document.querySelector('#bookli')
+    const list = document.querySelector('#bookli');
 
     const row = document.createElement('tr');
 
@@ -47,7 +47,6 @@ class Book {
     const books = Book.getBooks();
     books.push(book);
     localStorage.setItem('books', JSON.stringify(books));
-
   }
 
   static removeBook(author) {
@@ -70,13 +69,13 @@ Form.addEventListener('submit', (e) => {
   const title = document.querySelector('#title').value;
   const author = document.querySelector('#author').value;
 
-  const book = new Book(title,author);
+  const book = new Book(title, author);
   Book.addBookToList(book);
   Book.addBook(book);
   Book.clearField();
 });
 
 document.querySelector('#bookli').addEventListener('click', (e) => {
-  Book.removeBook(e.target.parentElement.previousElementSibling.innerHTML)
+  Book.removeBook(e.target.parentElement.previousElementSibling.innerHTML);
   Book.deleteBook(e.target);
 });
