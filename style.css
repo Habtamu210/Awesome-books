@@ -1,7 +1,6 @@
 * {
-  margin: 20px;
   box-sizing: border-box;
-  padding: 0;
+
 }
 
 body {
@@ -67,9 +66,10 @@ nav li a:hover {
   font-weight: 600;
 }
 
-h1 {
-  text-shadow: 2px 3px grey;
-  font-size: 40px;
+header {
+  padding-bottom: 2%;
+  display: flex;
+  flex-direction: column;
 }
 #top {
   display: none;
@@ -79,27 +79,31 @@ form {
   border: 1px solid gray;
 }
 
-.tables {
-  margin: 10px auto;
-  font-size: 25px;
+.active {
+  color: #008;
 }
 
-th {
+.navagation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
   padding: 20px;
+  border: 2px solid #111;
 }
 
-.button-submit {
-  width: 20%;
-  background-image: linear-gradient(rgba(117, 121, 139, 0.712), rgba(30, 153, 202, 0.712));
-  border: 1px solid gray;
-  padding: 8px 10px;
+
+.navagation > p {
+  margin-bottom: 0;
 }
 
-.title-input,
-.author-input {
-  width: 70%;
-  padding: 8px 10px;
-  border: 1px solid gray;
+.nav {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0;
+  gap: 22px;
 }
 #contact {
   display: none;
