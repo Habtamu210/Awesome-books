@@ -1,7 +1,16 @@
+const list = document.querySelector('#list');
+const addnew = document.querySelector('#addnew');
+const contact = document.querySelector('#contact');
+const li = document.querySelector('#top');
+const add = document.querySelector('#bookform');
+const contac = document.querySelector('#contac');
+const time = document.querySelector('#time');
+
 class Book {
-  constructor(title, author) {
+  constructor(title, author, id = Math.floor(Math.random() * 1000)) {
     this.title = title;
     this.author = author;
+    this.id = id;
   }
 
   static displayBooks() {
@@ -60,7 +69,11 @@ class Book {
     localStorage.setItem('books', JSON.stringify(books));
   }
 }
-
+function nav(first, second, third) {
+  first.style.display = 'block';
+  second.style.display = 'none';
+  third.style.display = 'none';
+}
 document.addEventListener('DOMContentLoaded', Book.displayBooks);
 const Form = document.querySelector('#bookform');
 Form.addEventListener('submit', (e) => {
@@ -74,8 +87,31 @@ Form.addEventListener('submit', (e) => {
   Book.addBook(book);
   Book.clearField();
 });
+list.addEventListener('click', () => {
+  nav(li, add, contact);
+});
 
+addnew.addEventListener('click', () => {
+  nav(add, li, contact);
+});
+
+contac.addEventListener('click', () => {
+  nav(contact, add, li);
+});
+function date(timing) {
+  const dee = new Date();
+  let hours = dee.getHours();
+  const ampm = hours >= 12 ? 'pm' : 'am';
+  hours %= 12;
+  const mont = [
+    'january', 'feburary', 'march',
+    'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+  const display = `${mont[dee.getMonth()]}
+  ${dee.getDate()}th ${dee.getFullYear()}, ${hours}:${dee.getMinutes()}${ampm}`;
+  timing.innerText = display;
+}
 document.querySelector('#bookli').addEventListener('click', (e) => {
   Book.removeBook(e.target.parentElement.previousElementSibling.innerHTML);
   Book.deleteBook(e.target);
 });
+date(time);
