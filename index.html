@@ -10,30 +10,71 @@
   <script src="java.js" defer></script>
 </head>
 <body class="mm">
-  <h1>Awesome Books</h1>
-  <table class="tables">
-    <!--<thead>
-      <tr>
-        <th>Title</th>
-        <th>Author</th>
-        <th></th>
-      </tr>
-    </thead> <br>-->
-    <tbody id="bookli"></tbody>
-  </table>
-  <hr>
-  <form id="bookform" class="book-form">
-    <h3 class="titlemain txt-center">Add a new book</h3>
-    <div class="forms mbb">
-      <input type="text" placeholder="Title" id="title" class="title-input" required>
-    </div>
-    <div class="forms">
-      <input type="text" placeholder="Author" id="author" class="author-input" required>
-    </div>
-    <div class="forms">
-      <input type="submit" value="Add"  class="button-submit">
-    </div>
-  </form>
+  <header>
+    <nav>
+        <a href="./index.html" class="logo">Awesome Books</a>
+        <ul>
+            <li id = "list">
+                <a href="#list">List</a>
+            </li>
+            <li id="addnew">
+                <a href="#addnew">Add new</a>
+            </li>
+            <li id="contac">
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <h3 id ='time'>
+    </h3>
+
+  </header>
+  <main>
+    <section id="top">
+      <h2>
+        All awesome books
+      </h2>
+      <div class="all"></div>
+    </section>
+    <table class="tables">
+      <!--<thead>
+        <tr>
+          <th>Title</th>
+          <th>Author</th>
+          <th></th>
+        </tr>
+      </thead> <br>-->
+      <tbody id="bookli"></tbody>
+    </table>
+    <hr>
+    <form id="bookform" class="book-form">
+      <h3 class="titlemain txt-center">Add a new book</h3>
+      <div class="forms mbb">
+        <input type="text" placeholder="Title" id="title" class="title-input" required>
+      </div>
+      <div class="forms">
+        <input type="text" placeholder="Author" id="author" class="author-input" required>
+      </div>
+      <div class="forms">
+        <input type="submit" value="Add"  class="button-submit">
+      </div>
+    </form>
+    <section id="contact">
+      <div class="contact_container">
+        <h2>
+          For More Info
+        </h2>
+        <p>
+          Contact us
+        </p>
+        <ul class="for">
+          <li>Email: <span>mail@mail.com</span></li>
+          <li>Number: <span>0089288377229</span></li>
+          <li>Address: <span>Street name 22, 899849 City, Country </span></li>
+        </ul>
+      </div>
+    </section>
+  </main>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 </body>
