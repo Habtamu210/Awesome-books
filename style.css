@@ -78,7 +78,14 @@ form {
   padding-top: 50px;
   border: 1px solid gray;
 }
-
+.fus {
+  width: 70%;
+  margin-bottom: 20px;
+}
+.button-submit {
+  margin-top: 10px;
+  width: 20%;
+}
 .active {
   color: #008;
 }
