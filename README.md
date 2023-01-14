@@ -33,8 +33,10 @@
 - html, js & css
 
 ## Live Demo
+Live Demo <a name="live-demo"></a>
 
-[Live Demo Link]()
+> Here is a link to deployed project.
+[Live Demo Link](https://habtamu210.github.io/Awesome-books/)
 
 ## Getting Started
 
